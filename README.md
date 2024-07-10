@@ -43,7 +43,6 @@ This project showcases the UI/UX design for DishDiscover(recipe finder) mobile a
 ### Confirmation Page
 ![image](https://github.com/jhanu-bal2607/Recipe-Finder/assets/140936201/fffbd6b6-c129-4561-9313-9983d9068e5b)
 
-![image](https://github.com/jhanu-bal2607/Recipe-Finder/assets/140936201/b9e38478-1e57-41dc-8429-47d2a56f0d57)
 
 ### Figma Link
 You can find the attached figma link for the same: https://www.figma.com/proto/2eoExKchVce5rVcxKTDEoG/Recipe-finder?node-id=1-2&t=i3PXrgEqJLyQwYqe-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
