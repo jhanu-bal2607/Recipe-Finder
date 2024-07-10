@@ -1,7 +1,7 @@
-# Recipe-Finder
+# DishDiscover
 
 ## Description
-This project showcases the UI/UX design for recipe finder mobile application. The design aims to provide an intuitive and engaging user experience.
+This project showcases the UI/UX design for DishDiscover(recipe finder) mobile application. The design aims to provide an intuitive and engaging user experience.
 
 ## Design Overview
 - **Landing Page**: The landing page is the first page of the app.
