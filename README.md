@@ -5,7 +5,7 @@ This project showcases the UI/UX design for DishDiscover(recipe finder) mobile a
 
 ## Design Overview
 - **Landing Page**: The landing page is the first page of the app.
-- **Home Page**: The home page is designed to welcome users with a clean and appealing layout. It has a bottom navigation bar for smooth transsion to other sections.
+- **Home Page**: The home page is designed to welcome users with a clean and appealing layout. It has a bottom navigation bar for smooth transition to other sections.
 - **Search Page**: The search page gives user the option to search the item for which they need the recipe.
 - **Categories Page**: The categories page is designed in such a way that user can select from the provided options from which category they wish to find the recipes.
 - **Breakfast Page**: The breakfast page is further division of the categories page into breakfast where recipes of the items made in breakfast is visible to users.
